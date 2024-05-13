@@ -27,3 +27,9 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### Meus comentário
+
+1. Será feita uma limpa na pasta, eliminação da pasta: assets e components dentro de src
+2. Bootstrap foi adicionado para tornar a estilização mais rápida de ser realizada!
+3. O bootstrap está localizado dentro da pasta de node_modules
